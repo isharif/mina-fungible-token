@@ -1,0 +1,1 @@
+# mina-fungible-token
